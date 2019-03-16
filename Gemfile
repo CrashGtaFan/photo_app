@@ -13,6 +13,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem "figaro"
 
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
